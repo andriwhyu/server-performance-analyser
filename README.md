@@ -8,8 +8,8 @@ Server Performance Stats is a project inspired by DevOps [roadmap.sh](https://ro
 Analyze node/server performance for following components ⤵️
 
 1. Total CPU usage.
-2. Total memory usage; free, used, and the percentage of each.
-3. Total disk usage; free, used, and the percentage of each.
+2. Total memory usage; free, used, and the usage percentage.
+3. Total disk usage; free, used, and the usage percentage.
 4. Top 5 process by CPU usage.
 5. Top 5 process by memory usage.
 
